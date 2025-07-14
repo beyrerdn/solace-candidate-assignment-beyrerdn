@@ -1,0 +1,1 @@
+This directory is for presentation layer code. As the code base expands, the individual controller actions can be broken up into useCases.
